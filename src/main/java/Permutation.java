@@ -5,6 +5,7 @@ import edu.princeton.cs.algs4.StdIn;
  */
 public class Permutation {
 
+    // does not really work outside of the coursera autograder
     public static void main(String[] args) {
         // DONE Write a client program Permutation.java that takes an integer k as a command-line argument;
         int k = Integer.parseInt(args[0]);
